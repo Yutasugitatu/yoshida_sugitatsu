@@ -1,0 +1,39 @@
+﻿  bg.cpp
+c:\users\pcyou\documents\visual studio 2015\projects\ポリゴン（改）\ポリゴン（改）\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  bullet.cpp
+c:\users\pcyou\documents\visual studio 2015\projects\ポリゴン（改）\ポリゴン（改）\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  enemy.cpp
+c:\users\pcyou\documents\visual studio 2015\projects\ポリゴン（改）\ポリゴン（改）\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  explosion.cpp
+c:\users\pcyou\documents\visual studio 2015\projects\ポリゴン（改）\ポリゴン（改）\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  fade.cpp
+  game.cpp
+c:\users\pcyou\documents\visual studio 2015\projects\ポリゴン（改）\ポリゴン（改）\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  input.cpp
+c:\users\pcyou\documents\visual studio 2015\projects\ポリゴン（改）\ポリゴン（改）\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  item.cpp
+c:\users\pcyou\documents\visual studio 2015\projects\ポリゴン（改）\ポリゴン（改）\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  life.cpp
+c:\users\pcyou\documents\visual studio 2015\projects\ポリゴン（改）\ポリゴン（改）\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  main.cpp
+c:\users\pcyou\documents\visual studio 2015\projects\ポリゴン（改）\ポリゴン（改）\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  number.cpp
+c:\users\pcyou\documents\visual studio 2015\projects\ポリゴン（改）\ポリゴン（改）\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  player.cpp
+c:\users\pcyou\documents\visual studio 2015\projects\ポリゴン（改）\ポリゴン（改）\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  result.cpp
+c:\users\pcyou\documents\visual studio 2015\projects\ポリゴン（改）\ポリゴン（改）\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  scene.cpp
+c:\users\pcyou\documents\visual studio 2015\projects\ポリゴン（改）\ポリゴン（改）\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  scene2d.cpp
+c:\users\pcyou\documents\visual studio 2015\projects\ポリゴン（改）\ポリゴン（改）\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  renderer.cpp
+c:\users\pcyou\documents\visual studio 2015\projects\ポリゴン（改）\ポリゴン（改）\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  manager.cpp
+c:\users\pcyou\documents\visual studio 2015\projects\ポリゴン（改）\ポリゴン（改）\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  score.cpp
+c:\users\pcyou\documents\visual studio 2015\projects\ポリゴン（改）\ポリゴン（改）\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  sound.cpp
+c:\users\pcyou\documents\visual studio 2015\projects\ポリゴン（改）\ポリゴン（改）\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  title.cpp
+c:\users\pcyou\documents\visual studio 2015\projects\ポリゴン（改）\ポリゴン（改）\main.h(15): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory

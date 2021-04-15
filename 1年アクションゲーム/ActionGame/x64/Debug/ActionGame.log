@@ -1,0 +1,88 @@
+﻿  title2.cpp
+c:\users\pcyou\documents\actiongame\actiongame\title2.cpp(25): error C2664: 'HRESULT D3DXCreateTextureFromFileW(LPDIRECT3DDEVICE9,LPCWSTR,LPDIRECT3DTEXTURE9 *)': 引数 2 を 'const char [16]' から 'LPCWSTR' へ変換できません。
+  c:\users\pcyou\documents\actiongame\actiongame\title2.cpp(25): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+  title.cpp
+c:\users\pcyou\documents\actiongame\actiongame\title.cpp(24): error C2664: 'HRESULT D3DXCreateTextureFromFileW(LPDIRECT3DDEVICE9,LPCWSTR,LPDIRECT3DTEXTURE9 *)': 引数 2 を 'const char [12]' から 'LPCWSTR' へ変換できません。
+  c:\users\pcyou\documents\actiongame\actiongame\title.cpp(24): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+c:\users\pcyou\documents\actiongame\actiongame\title.cpp(25): error C2664: 'HRESULT D3DXCreateTextureFromFileW(LPDIRECT3DDEVICE9,LPCWSTR,LPDIRECT3DTEXTURE9 *)': 引数 2 を 'const char [16]' から 'LPCWSTR' へ変換できません。
+  c:\users\pcyou\documents\actiongame\actiongame\title.cpp(25): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+c:\users\pcyou\documents\actiongame\actiongame\title.cpp(26): error C2664: 'HRESULT D3DXCreateTextureFromFileW(LPDIRECT3DDEVICE9,LPCWSTR,LPDIRECT3DTEXTURE9 *)': 引数 2 を 'const char [11]' から 'LPCWSTR' へ変換できません。
+  c:\users\pcyou\documents\actiongame\actiongame\title.cpp(26): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+c:\users\pcyou\documents\actiongame\actiongame\title.cpp(27): error C2664: 'HRESULT D3DXCreateTextureFromFileW(LPDIRECT3DDEVICE9,LPCWSTR,LPDIRECT3DTEXTURE9 *)': 引数 2 を 'const char [9]' から 'LPCWSTR' へ変換できません。
+  c:\users\pcyou\documents\actiongame\actiongame\title.cpp(27): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+c:\users\pcyou\documents\actiongame\actiongame\title.cpp(28): error C2664: 'HRESULT D3DXCreateTextureFromFileW(LPDIRECT3DDEVICE9,LPCWSTR,LPDIRECT3DTEXTURE9 *)': 引数 2 を 'const char [14]' から 'LPCWSTR' へ変換できません。
+  c:\users\pcyou\documents\actiongame\actiongame\title.cpp(28): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+  sound.cpp
+c:\users\pcyou\documents\actiongame\actiongame\sound.cpp(60): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 引数 2 を 'const char [34]' から 'LPCWSTR' へ変換できません。
+  c:\users\pcyou\documents\actiongame\actiongame\sound.cpp(60): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+c:\users\pcyou\documents\actiongame\actiongame\sound.cpp(72): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 引数 2 を 'const char [29]' から 'LPCWSTR' へ変換できません。
+  c:\users\pcyou\documents\actiongame\actiongame\sound.cpp(72): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+c:\users\pcyou\documents\actiongame\actiongame\sound.cpp(102): error C2664: 'HANDLE CreateFileW(LPCWSTR,DWORD,DWORD,LPSECURITY_ATTRIBUTES,DWORD,DWORD,HANDLE)': 引数 1 を 'char *' から 'LPCWSTR' へ変換できません。
+  c:\users\pcyou\documents\actiongame\actiongame\sound.cpp(102): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+c:\users\pcyou\documents\actiongame\actiongame\sound.cpp(105): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 引数 2 を 'const char [40]' から 'LPCWSTR' へ変換できません。
+  c:\users\pcyou\documents\actiongame\actiongame\sound.cpp(105): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+c:\users\pcyou\documents\actiongame\actiongame\sound.cpp(110): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 引数 2 を 'const char [40]' から 'LPCWSTR' へ変換できません。
+  c:\users\pcyou\documents\actiongame\actiongame\sound.cpp(110): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+c:\users\pcyou\documents\actiongame\actiongame\sound.cpp(118): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 引数 2 を 'const char [34]' から 'LPCWSTR' へ変換できません。
+  c:\users\pcyou\documents\actiongame\actiongame\sound.cpp(118): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+c:\users\pcyou\documents\actiongame\actiongame\sound.cpp(124): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 引数 2 を 'const char [34]' から 'LPCWSTR' へ変換できません。
+  c:\users\pcyou\documents\actiongame\actiongame\sound.cpp(124): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+c:\users\pcyou\documents\actiongame\actiongame\sound.cpp(129): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 引数 2 を 'const char [34]' から 'LPCWSTR' へ変換できません。
+  c:\users\pcyou\documents\actiongame\actiongame\sound.cpp(129): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+c:\users\pcyou\documents\actiongame\actiongame\sound.cpp(137): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 引数 2 を 'const char [32]' から 'LPCWSTR' へ変換できません。
+  c:\users\pcyou\documents\actiongame\actiongame\sound.cpp(137): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+c:\users\pcyou\documents\actiongame\actiongame\sound.cpp(143): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 引数 2 を 'const char [32]' から 'LPCWSTR' へ変換できません。
+  c:\users\pcyou\documents\actiongame\actiongame\sound.cpp(143): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+c:\users\pcyou\documents\actiongame\actiongame\sound.cpp(151): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 引数 2 を 'const char [36]' から 'LPCWSTR' へ変換できません。
+  c:\users\pcyou\documents\actiongame\actiongame\sound.cpp(151): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+c:\users\pcyou\documents\actiongame\actiongame\sound.cpp(158): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 引数 2 を 'const char [36]' から 'LPCWSTR' へ変換できません。
+  c:\users\pcyou\documents\actiongame\actiongame\sound.cpp(158): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+c:\users\pcyou\documents\actiongame\actiongame\sound.cpp(166): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 引数 2 を 'const char [27]' から 'LPCWSTR' へ変換できません。
+  c:\users\pcyou\documents\actiongame\actiongame\sound.cpp(166): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+  result.cpp
+c:\users\pcyou\documents\actiongame\actiongame\result.cpp(20): error C2664: 'HRESULT D3DXCreateTextureFromFileW(LPDIRECT3DDEVICE9,LPCWSTR,LPDIRECT3DTEXTURE9 *)': 引数 2 を 'const char [13]' から 'LPCWSTR' へ変換できません。
+  c:\users\pcyou\documents\actiongame\actiongame\result.cpp(20): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+c:\users\pcyou\documents\actiongame\actiongame\result.cpp(21): error C2664: 'HRESULT D3DXCreateTextureFromFileW(LPDIRECT3DDEVICE9,LPCWSTR,LPDIRECT3DTEXTURE9 *)': 引数 2 を 'const char [8]' から 'LPCWSTR' へ変換できません。
+  c:\users\pcyou\documents\actiongame\actiongame\result.cpp(21): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+c:\users\pcyou\documents\actiongame\actiongame\result.cpp(22): error C2664: 'HRESULT D3DXCreateTextureFromFileW(LPDIRECT3DDEVICE9,LPCWSTR,LPDIRECT3DTEXTURE9 *)': 引数 2 を 'const char [7]' から 'LPCWSTR' へ変換できません。
+  c:\users\pcyou\documents\actiongame\actiongame\result.cpp(22): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+  main.cpp
+c:\users\pcyou\documents\actiongame\actiongame\main.cpp(68): error C2440: '初期化中': 'const char [11]' から 'LPCWSTR' に変換できません。
+  c:\users\pcyou\documents\actiongame\actiongame\main.cpp(68): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+c:\users\pcyou\documents\actiongame\actiongame\main.cpp(97): error C2664: 'HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)': 引数 2 を 'const char [11]' から 'LPCWSTR' へ変換できません。
+  c:\users\pcyou\documents\actiongame\actiongame\main.cpp(97): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+c:\users\pcyou\documents\actiongame\actiongame\main.cpp(142): error C2664: 'BOOL UnregisterClassW(LPCWSTR,HINSTANCE)': 引数 1 を 'const char [11]' から 'LPCWSTR' へ変換できません。
+  c:\users\pcyou\documents\actiongame\actiongame\main.cpp(142): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+  input.cpp
+c:\users\pcyou\documents\actiongame\actiongame\input.cpp(103): warning C4552: '!=': 演算子にプログラム上の作用がありません。作用を伴う演算子を使用してください
+  goal.cpp
+c:\users\pcyou\documents\actiongame\actiongame\goal.cpp(14): error C2664: 'HRESULT D3DXCreateTextureFromFileW(LPDIRECT3DDEVICE9,LPCWSTR,LPDIRECT3DTEXTURE9 *)': 引数 2 を 'const char [9]' から 'LPCWSTR' へ変換できません。
+  c:\users\pcyou\documents\actiongame\actiongame\goal.cpp(14): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+  game.cpp
+  fade.cpp
+  common.cpp
+c:\users\pcyou\documents\actiongame\actiongame\common.cpp(35): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+  block.cpp
+c:\users\pcyou\documents\actiongame\actiongame\block.cpp(33): error C2664: 'HRESULT D3DXCreateTextureFromFileW(LPDIRECT3DDEVICE9,LPCWSTR,LPDIRECT3DTEXTURE9 *)': 引数 2 を 'const char [10]' から 'LPCWSTR' へ変換できません。
+  c:\users\pcyou\documents\actiongame\actiongame\block.cpp(33): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+c:\users\pcyou\documents\actiongame\actiongame\block.cpp(34): error C2664: 'HRESULT D3DXCreateTextureFromFileW(LPDIRECT3DDEVICE9,LPCWSTR,LPDIRECT3DTEXTURE9 *)': 引数 2 を 'const char [12]' から 'LPCWSTR' へ変換できません。
+  c:\users\pcyou\documents\actiongame\actiongame\block.cpp(34): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+c:\users\pcyou\documents\actiongame\actiongame\block.cpp(35): error C2664: 'HRESULT D3DXCreateTextureFromFileW(LPDIRECT3DDEVICE9,LPCWSTR,LPDIRECT3DTEXTURE9 *)': 引数 2 を 'const char [9]' から 'LPCWSTR' へ変換できません。
+  c:\users\pcyou\documents\actiongame\actiongame\block.cpp(35): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+c:\users\pcyou\documents\actiongame\actiongame\block.cpp(36): error C2664: 'HRESULT D3DXCreateTextureFromFileW(LPDIRECT3DDEVICE9,LPCWSTR,LPDIRECT3DTEXTURE9 *)': 引数 2 を 'const char [14]' から 'LPCWSTR' へ変換できません。
+  c:\users\pcyou\documents\actiongame\actiongame\block.cpp(36): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+  bg2.cpp
+c:\users\pcyou\documents\actiongame\actiongame\bg2.cpp(28): error C2664: 'HRESULT D3DXCreateTextureFromFileW(LPDIRECT3DDEVICE9,LPCWSTR,LPDIRECT3DTEXTURE9 *)': 引数 2 を 'const char [8]' から 'LPCWSTR' へ変換できません。
+  c:\users\pcyou\documents\actiongame\actiongame\bg2.cpp(28): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+  bg.cpp
+c:\users\pcyou\documents\actiongame\actiongame\bg.cpp(28): error C2664: 'HRESULT D3DXCreateTextureFromFileW(LPDIRECT3DDEVICE9,LPCWSTR,LPDIRECT3DTEXTURE9 *)': 引数 2 を 'const char [7]' から 'LPCWSTR' へ変換できません。
+  c:\users\pcyou\documents\actiongame\actiongame\bg.cpp(28): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+  Player.cpp
+c:\users\pcyou\documents\actiongame\actiongame\player.cpp(54): error C2664: 'HRESULT D3DXCreateTextureFromFileW(LPDIRECT3DDEVICE9,LPCWSTR,LPDIRECT3DTEXTURE9 *)': 引数 2 を 'const char [12]' から 'LPCWSTR' へ変換できません。
+  c:\users\pcyou\documents\actiongame\actiongame\player.cpp(54): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+c:\users\pcyou\documents\actiongame\actiongame\player.cpp(55): error C2664: 'HRESULT D3DXCreateTextureFromFileW(LPDIRECT3DDEVICE9,LPCWSTR,LPDIRECT3DTEXTURE9 *)': 引数 2 を 'const char [15]' から 'LPCWSTR' へ変換できません。
+  c:\users\pcyou\documents\actiongame\actiongame\player.cpp(55): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+  Cloud.cpp
+c:\users\pcyou\documents\actiongame\actiongame\cloud.cpp(28): error C2664: 'HRESULT D3DXCreateTextureFromFileW(LPDIRECT3DDEVICE9,LPCWSTR,LPDIRECT3DTEXTURE9 *)': 引数 2 を 'const char [10]' から 'LPCWSTR' へ変換できません。
+  c:\users\pcyou\documents\actiongame\actiongame\cloud.cpp(28): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+  コードを生成中...

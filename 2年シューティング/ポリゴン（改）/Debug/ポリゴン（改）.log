@@ -1,0 +1,25 @@
+﻿  explosion.cpp
+  enemy.cpp
+  コードを生成中...
+  コンパイル中...
+  title.cpp
+  score.cpp
+c:\users\pcyou\desktop\ポリゴン（改）\ポリゴン（改）\score.cpp(88): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  scene2d.cpp
+  scene.cpp
+  result.cpp
+  player.cpp
+  number.cpp
+  manager.cpp
+  life.cpp
+  game.cpp
+  finish.cpp
+  bullet.cpp
+  bomb.cpp
+  bg.cpp
+  コードを生成中...
+  スキップ中... (関連する変更は検出されませんでした)
+  renderer.cpp
+  fade.cpp
+  ポリゴン（改）.vcxproj -> C:\Users\pcyou\Desktop\ポリゴン（改）\Debug\ポリゴン（改）.exe
+  ポリゴン（改）.vcxproj -> C:\Users\pcyou\Desktop\ポリゴン（改）\Debug\ポリゴン（改）.pdb (Full PDB)
