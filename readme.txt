@@ -26,7 +26,7 @@
 
 02_自己紹介動画
 学校生活や制作してきた作品について約2分半でまとめた動画です。
-URL:https://youtu.be/ehT2qav3OPA
+URL:https://youtu.be/vMiMQA_-Sv4
 
 03_ポートフォリオ
 自分の制作物についてを主にまとめています。
